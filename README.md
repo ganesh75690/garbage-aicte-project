@@ -7,6 +7,13 @@ A deep learning model using MobileNetV3 to classify garbage into six categories:
 
 [![HuggingFace Spaces](https://img.shields.io/badge/%F0%9F%A4%96%20HuggingFace-Demo-blue)](https://huggingface.co/spaces/GANESH756/AICTE)
 
+Technologies Used :::
+  Python
+  TensorFlow / Keras
+  MobileNetV3Large
+  Gradio
+  Hugging Face Spaces
+
 ...
 
 This project is a deep learning-based image classification model that automatically identifies and classifies waste into six categories: cardboard, glass, metal, paper, plastic, and trash.
