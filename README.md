@@ -18,4 +18,7 @@ A web interface is provided using Gradio, and the project is deployed on Hugging
 
 ![Screenshot 2025-06-26 184847](https://github.com/user-attachments/assets/035abb9f-a41c-4840-a49e-a7882ee4f228)
 
+![Screenshot 2025-06-26 184814](https://github.com/user-attachments/assets/4cf09183-5d13-4983-a180-33d58a22802f)
+
+
 
