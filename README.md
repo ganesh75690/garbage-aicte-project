@@ -21,36 +21,6 @@ AND THE PREDICTION RESULT OF WORKING WILL BE.............
 
 IT WILL GIVE BETTER PREDICTION RESULTS AT THE END FOR THE GIVEN IMAGE AND DATA.
 
-+-----------------------------+
-|  📷  Input Layer            |
-|  Image (128 × 128 × 3)     |
-+-----------------------------+
-             |
-             ↓
-+-----------------------------+
-|  🔍 MobileNetV3Large        |
-|  Feature Extraction         |
-|  Lightweight CNN Backbone   |
-+-----------------------------+
-             |
-             ↓
-+-----------------------------+
-|  🧮 Global Average Pooling  |
-|  Reduces Feature Dimensions |
-+-----------------------------+
-             |
-             ↓
-+-----------------------------+
-|  🔢 Dense Layer             |
-|  6 Neurons (Softmax)        |
-+-----------------------------+
-             |
-             ↓
-+-----------------------------+
-|  🗑️ Output Classes          |
-|  Paper, Plastic, Metal,     |
-|  Glass, Organic, Others     |
-+-----------------------------+
 
 
 
