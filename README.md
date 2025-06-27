@@ -20,5 +20,10 @@ A web interface is provided using Gradio, and the project is deployed on Hugging
 
 ![Screenshot 2025-06-26 184814](https://github.com/user-attachments/assets/4cf09183-5d13-4983-a180-33d58a22802f)
 
+ Model Performance
+Validation Accuracy: ~99%
 
+Test Accuracy: ~99.8%
+
+F1-Score: 1.00 for all classes
 
