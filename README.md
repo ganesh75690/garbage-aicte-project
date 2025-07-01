@@ -7,7 +7,22 @@ A deep learning model using MobileNetV3 to classify garbage into six categories:
 
 [![HuggingFace Spaces](https://img.shields.io/badge/%F0%9F%A4%96%20HuggingFace-Demo-blue)](https://huggingface.co/spaces/GANESH756/AICTE)
 
+🧠 Model Highlights::::::::::::::::
+
+📱 MobileNetV3Large: Optimized for mobile and embedded vision applications
+
+📊 Achieved ~99% validation accuracy
+
+🔄 Preprocessing includes image resizing, normalization, and augmentation
+
+🖼️ Inference-ready: Supports prediction on user-uploaded images
+
+💾 Model saved in .keras format for portability
+
+
+
 Technologies Used :::
+
   Python
   TensorFlow / Keras
   MobileNetV3Large
