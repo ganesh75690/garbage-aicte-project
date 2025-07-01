@@ -1,7 +1,7 @@
 
 # Garbage Classifier (AICTE)
 
-A deep learning model using MobileNetV3 to classify garbage into six categories: cardboard, glass, metal, paper, plastic, and trash.
+A deep learning model using MobileNetV3 to classify garbage into six categories: cardboard, glass, metal, paper, plastic, and trash.In today's world, waste management plays a critical role in maintaining a sustainable environment. However, manual garbage sorting is time-consuming, inefficient, and prone to human error. To address this issue, this project presents an AI-powered garbage classification system using MobileNetV3Large, a lightweight convolutional neural network (CNN).
 
 ## 🚀 Live Demo
 
